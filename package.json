@@ -2,7 +2,7 @@
   "name": "swoley-fit",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://kost321.github.io/swoley-fit",
+  "homepage": "/swoley-fit/",
   "type": "module",
   "scripts": {
     "dev": "vite",
